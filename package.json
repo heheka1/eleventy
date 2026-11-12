@@ -1,0 +1,24 @@
+{
+  "name": "eleventy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+   "start": "eleventy --serve",
+   "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heheka1/eleventy.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/heheka1/eleventy/issues"
+  },
+  "homepage": "https://github.com/heheka1/eleventy#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.8"
+  }
+}
